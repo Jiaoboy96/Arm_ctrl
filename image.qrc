@@ -1,0 +1,62 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>PRC/LOGO1/LOGO.jpg</file>
+        <file>PRC/classify2/Bao.png</file>
+        <file>PRC/classify2/Ku.png</file>
+        <file>PRC/classify2/Xie.png</file>
+        <file>PRC/classify2/Yi.png</file>
+        <file>PRC/clothes3/ (1).jpg</file>
+        <file>PRC/clothes3/ (2).jpg</file>
+        <file>PRC/clothes3/ (3).jpg</file>
+        <file>PRC/clothes3/ (4).jpg</file>
+        <file>PRC/clothes3/ (5).jpg</file>
+        <file>PRC/clothes3/ (6).jpg</file>
+        <file>PRC/handbag6/ (1).jpg</file>
+        <file>PRC/handbag6/ (2).jpg</file>
+        <file>PRC/handbag6/ (3).jpg</file>
+        <file>PRC/handbag6/ (4).jpg</file>
+        <file>PRC/handbag6/ (5).jpg</file>
+        <file>PRC/handbag6/ (6).jpg</file>
+        <file>PRC/handbag6/ (7).jpg</file>
+        <file>PRC/handbag6/ (8).jpg</file>
+        <file>PRC/handbag6/ (9).jpg</file>
+        <file>PRC/handbag6/ (10).jpg</file>
+        <file>PRC/images/ (1).jpg</file>
+        <file>PRC/images/ (1).png</file>
+        <file>PRC/images/ (2).png</file>
+        <file>PRC/images/ (3).png</file>
+        <file>PRC/images/ (4).png</file>
+        <file>PRC/images/ (5).png</file>
+        <file>PRC/images/ (6).png</file>
+        <file>PRC/images/ (7).png</file>
+        <file>PRC/images/ (8).png</file>
+        <file>PRC/images/ (9).png</file>
+        <file>PRC/images/ (10).png</file>
+        <file>PRC/images/ (11).png</file>
+        <file>PRC/images/ (12).png</file>
+        <file>PRC/images/ (13).png</file>
+        <file>PRC/images/ (14).png</file>
+        <file>PRC/images/ (15).png</file>
+        <file>PRC/images/ (16).png</file>
+        <file>PRC/images/ (17).png</file>
+        <file>PRC/images/ (18).png</file>
+        <file>PRC/shoe5/ (1).jpg</file>
+        <file>PRC/shoe5/ (2).jpg</file>
+        <file>PRC/shoe5/ (3).jpg</file>
+        <file>PRC/shoe5/ (4).jpg</file>
+        <file>PRC/shoe5/ (5).jpg</file>
+        <file>PRC/shoe5/ (6).jpg</file>
+        <file>PRC/shoe5/ (7).jpg</file>
+        <file>PRC/shoe5/ (8).jpg</file>
+        <file>PRC/trousers4/ (1).jpg</file>
+        <file>PRC/trousers4/ (2).jpg</file>
+        <file>PRC/trousers4/ (3).jpg</file>
+        <file>PRC/trousers4/ (4).jpg</file>
+        <file>PRC/trousers4/ (5).jpg</file>
+        <file>PRC/trousers4/ (6).jpg</file>
+    </qresource>
+    <qresource prefix="/App_rc">
+        <file>EXE_PIC/logo.rc</file>
+        <file>PRC/images/(0).jpg</file>
+    </qresource>
+</RCC>
